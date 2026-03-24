@@ -89,11 +89,11 @@ public class EpsteinApp {
             }
         }
     }
-    static Estadisticas generarEstadisticas(){
-        Estadisticas estadisticas = new Estadisticas()
-        for (Famoso famoso : listaEpstein){
-        }
-
-        return ;
-    }
+//    static Estadisticas generarEstadisticas(){
+//        Estadisticas estadisticas = new Estadisticas();
+//        for (Famoso famoso : listaEpstein){
+//        }
+//
+//        return ;
+//    }
 }
